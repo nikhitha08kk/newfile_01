@@ -1,0 +1,135 @@
+#head{
+    text-align: center;
+}
+.eiff{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+   
+}
+.des{
+    background-color: lightgrey;
+    width: 700px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin:20px;
+    margin-left: 400px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#head{
+    font-family: "Sofia", sans-serif;
+    text-decoration: underline;
+}
+.exp{
+    text-align: justify;
+    font-style:italic;
+    
+}
+.expm{
+    background-color:  rgb(255, 190, 190);
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.click{
+    background-color:  rgb(255, 190, 190);
+    padding-bottom: 10px;
+}
+.img-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.img-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.first{
+    padding-top: 15px;
+    background-color: rgb(255, 190, 190); ;
+    padding-bottom: 25px;
+}
+.icback{
+
+  background-color: rgb(39, 187, 177) ;
+   
+}
+#more{
+   
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: rgb(7, 7, 7);
+    font-size:25px;font-style: oblique;
+    text-align: center;
+
+}
+.block{
+    padding-top: 30px;
+}
+ .fa-instagram{
+
+    color: white;
+    padding-right: 5px;
+}
+.fa-twitter{
+    color: white;
+    padding-right: 5px;
+}
+.fa-facebook-f{
+    color: white;
+}
+.fa-instagram:hover{
+    color: rgb(7, 99, 164);
+}
+.fa-twitter:hover{
+    color: rgb(7, 99, 164);
+  }  
+  .fa-facebook-f:hover{
+    color: rgb(7, 99, 164);
+  }
+  .gree{
+    text-align: center;
+    font-family:  sans-serif;
+
+  }
+  .may{
+    text-align: justify;
+  }
+  a:hover{
+    color: red;
+  }
+ 
+
+  a:active{
+    color: blue;
+  }
+#nex{
+    padding-left:22px;
+    padding-right: 22px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 180px;
+    margin-top: 20px;
+    background-color: grey;
+    color: whitesmoke;
+    border: none;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+#nex:hover{
+  background-color: blue;
+}
+#neb{
+    color: white;
+    text-decoration: none;
+}
+
