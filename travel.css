@@ -1,0 +1,153 @@
+#kanya{
+    text-align: center;
+}
+
+.hm{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0;
+    }
+li{
+    display: inline;
+}
+.home-h{
+    background-color:green;
+    padding: 20px 20px;
+    position: absolute;
+    z-index: 2;
+    width: 80%;
+    left: 140px;
+    top: 80px;
+    position: sticky;
+
+  
+
+}
+.head{
+    background-color: rgb(34, 188, 240);
+    padding:5px 650px 20px 600px;
+    position:fixed;
+   
+
+
+}
+.k-img{
+    padding-top: 60px;
+}
+
+
+#home-1{
+    text-decoration: none;
+    color: white;
+    padding-left: 300px;
+}
+#abou{
+    text-decoration: none;
+    color: white;
+    padding-left:150px;
+}
+#cont{
+    text-decoration: none;
+    color: white;
+    padding-left: 150px;
+}
+#anot{
+    text-decoration: none;
+    color: white; 
+    padding-left: 150px;
+}
+#sun{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 300px;
+    padding-top: 50px;
+}
+#viv{
+    text-align:center ;
+}
+.all{
+
+    padding: 40px;
+    background-color: rgb(249, 203, 119);
+    width: 700px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin:20px;
+    margin-left: 350px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.two{
+   
+    background-color: rgb(245, 245, 97);
+    padding: 40px;
+
+    width: 700px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin:20px;
+    margin-left: 350px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.three{
+    background-color: rgb(249, 203, 119);
+    padding: 40px;
+    width: 700px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin:20px;
+    margin-left: 350px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#home-1:hover{
+    border: 1px solid green;
+    border-color: brown;
+  background-color: rgb(214, 122, 9);
+}
+#abou:hover{
+    border: 1px solid green;
+    border-color: brown;
+  background-color: rgb(214, 122, 9);
+}
+#cont:hover{
+    border: 1px solid green;
+    border-color: brown;
+  background-color: rgb(214, 122, 9);
+  
+}
+#anot:hover{
+    border: 1px solid green;
+    border-color: brown;
+  background-color: rgb(214, 122, 9);
+}
+#more{
+    text-align: center;
+}
+.insta{
+    margin-left: 700px;
+}
+.img-all{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+}
+.img-two{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-three{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
